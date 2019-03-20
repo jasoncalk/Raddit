@@ -1,0 +1,16 @@
+            h1 {
+                font-size: 5em;
+            }
+           
+            .blog-post {
+                width: 800px !important;
+                margin-left: 100px;
+            }
+
+            .blog-visited {
+                width: 400px;
+            }
+
+            .fas {
+                font-size: 30px;
+            }
