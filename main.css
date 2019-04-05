@@ -108,3 +108,17 @@
             .form-label {
                 margin-bottom: 10px !important;
             }
+
+            .thumbs-class {
+                margin:10px;
+                color: grey;
+            }
+
+            .thumbs-class:hover {
+                cursor: grabbing;
+            }
+
+            .thumbs-liked {
+                color: gold;
+                font-size:40px;
+            }
